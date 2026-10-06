@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="temiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D287" />
+      <stop offset="100%" stop-color="#00875A" />
+    </linearGradient>
+    <linearGradient id="temiTeal" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D9488" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Hex/Shield -->
+  <rect x="8" y="8" width="84" height="84" rx="24" fill="url(#temiGrad)"/>
+  <!-- Modern Geometric Nest/T Motif -->
+  <path d="M28 32 C 28 26, 32 24, 50 24 C 68 24, 72 26, 72 32 C 72 37, 68 38, 56 38 L 56 68 C 56 74, 54 76, 50 76 C 46 76, 44 74, 44 68 L 44 38 C 32 38, 28 37, 28 32 Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <circle cx="66" cy="56" r="10" fill="url(#temiTeal)"/>
+  <path d="M63 56 L 69 56 M 66 53 L 69 56 L 66 59" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
